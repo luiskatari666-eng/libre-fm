@@ -2,4 +2,4 @@
 
 ---
 
-Yes, Libre.fm is closed to new registrations. However, whatever happens next will be relevant still.
+Yes, Libre.fm is open again with a waitlist for new registrations. 
