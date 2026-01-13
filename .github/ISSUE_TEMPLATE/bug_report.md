@@ -7,6 +7,9 @@ assignees: ''
 
 ---
 
+**Link to your Libre.fm profile if you have one**
+https://libre.fm/user/...
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 
@@ -29,10 +32,10 @@ If applicable, add screenshots to help explain your problem.
  - Version [e.g. 136]
 
 **Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+ - Device: [e.g. iPhone14]
+ - OS: [e.g. iOS26.1]
+ - Browser [e.g. stock browser, Safari]
+ - Version [e.g. 26]
 
 **Additional context**
 Add any other context about the problem here.
